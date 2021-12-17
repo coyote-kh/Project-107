@@ -1,0 +1,47 @@
+img {
+    height: 300px;
+    width: 450px;
+}
+
+#kitty{
+    height: 290px;
+    width: 200px;
+}
+
+body {
+    background-color: white;
+}
+
+div {
+    background-color: rgb(250, 223, 250);
+}
+
+button {
+    background-color: midnightblue;
+    color: white;
+    border-radius: 25px;
+    height: 70;
+    width: 90;
+    font-size: 30px;
+    font-family: 'Charmonman', cursive;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Comforter', cursive;
+}
+
+h2 {
+    font-family: 'Comforter', cursive;
+}
+
+h3 {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
